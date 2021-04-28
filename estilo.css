@@ -1,0 +1,52 @@
+.titulo{
+font-family: algerian;
+
+
+}
+
+
+
+
+
+h1{
+	text-shadow: 2px 2px 2px  green, 4px 4px 4px green,8px 8px 8px green,12px 12px 12px green;
+}
+
+
+.btn2{
+	
+	background-color: lime;
+	border: 2px solid black;
+	border-radius: 6px; 
+	width: 180px;
+	height: 70%;
+	font-size: 20px	;
+	font-family: algerian;
+	}
+
+
+.prl1{
+
+position:relative;
+	top: 400px;
+	left:650px;
+	width: 230px;
+	height: 180px;
+	background: url(tecno-sem13.png);
+	background-size: cover;
+	border: 15px solid; color:black;
+}
+
+
+.prl2{
+
+position:relative;
+	top: 400px;
+	left:650px;
+	width: 230px;
+	height: 180px;
+	background: url(tecno2-sem13.png);
+	background-size: cover;
+	border: 15px solid; color:black;
+}
+

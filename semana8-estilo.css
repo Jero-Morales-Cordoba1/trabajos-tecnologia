@@ -1,0 +1,71 @@
+.titulo{
+font-family: algerian;
+
+
+	text-shadow: 2px 2px 2px  green, 4px 4px 4px green,8px 8px 8px green,12px 12px 12px green;
+}
+
+.jeroo{
+
+position:absolute;
+	top: 100px;
+	left: 500px;
+	width: 500px;
+	height: 230px;
+	background: url(jeroo.jpg);
+	background-size: cover;
+	border: 15px solid; color:black;
+	
+}
+
+.botonera{
+
+	background-color: lime;
+	border: 2px solid black;
+	border-radius: 6px;
+	top: 100px; 
+	width: 180px;
+	height: 70%;
+	font-size: 20px	;
+	font-family: algerian;
+}
+.tc1{
+
+position:absolute;
+	top: 100px;
+	left: 300px;
+	width: 230px;
+	height: 180px;
+	background: url(tecno1-semana8.png);
+	background-size: cover;
+	border: 15px solid; color:black;
+}
+
+
+.tc2{
+
+position:absolute;
+	top: 100px;
+	left: 570px;
+	width: 230px;
+	height: 180px;
+	background: url(tecno2-semana8.png);
+	background-size: cover;
+	border: 15px solid; color:black;
+}
+
+.tc3{
+
+position:absolute;
+	top: 100px;
+	left: 840px;
+	width: 230px;
+	height: 180px;
+	background: url(tecno3-semana8.png);
+	background-size: cover;
+	border: 15px solid; color:black;
+}
+
+
+
+
